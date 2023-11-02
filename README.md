@@ -1,2 +1,1 @@
-# firstcode
-First code 
+Author Dhanush
